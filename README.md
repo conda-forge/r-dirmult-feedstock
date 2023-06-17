@@ -1,11 +1,11 @@
-About r-dirmult
-===============
+About r-dirmult-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dirmult-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=dirmult
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dirmult-feedstock/blob/main/LICENSE.txt)
 
 Summary: Estimate parameters in Dirichlet-Multinomial and compute profile log-likelihoods.
 
